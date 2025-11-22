@@ -4,6 +4,7 @@
 #include <cmath>
 #include <iostream>
 
+// 3D Vector Class
 class vec3
 {
 public:
